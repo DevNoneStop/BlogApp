@@ -6,7 +6,7 @@ public class HealthEndPoint: Endpoint<HealthRequest, HealthResponse>
 {
     public override void Configure()
     {
-        Get("/health");
+        Get("/api/healthz");
         AllowAnonymous();
     }
 
