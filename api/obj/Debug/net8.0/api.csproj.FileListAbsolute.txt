@@ -36,3 +36,17 @@
 /Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/FastEndpoints.Messaging.Core.dll
 /Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/FluentValidation.dll
 /Users/lgaompe/Documents/Dev/BlogApp/api/obj/Debug/net8.0/api.sourcelink.json
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/FastEndpoints.Swagger.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/Namotion.Reflection.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NJsonSchema.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NJsonSchema.Annotations.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NJsonSchema.NewtonsoftJson.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NJsonSchema.Yaml.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.Annotations.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.AspNetCore.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.Core.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.Core.Yaml.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.Generation.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/NSwag.Generation.AspNetCore.dll
+/Users/lgaompe/Documents/Dev/BlogApp/api/bin/Debug/net8.0/YamlDotNet.dll
